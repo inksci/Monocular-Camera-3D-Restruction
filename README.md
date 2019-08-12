@@ -7,7 +7,7 @@ The codes included in OpencvCode/ are used for [sift-algorithm](https://www.baid
 The codes included in MatlabCode/ are used for calculating the 3d positions of related points.
 
 web links for further information:
-- <http://inksci.com/lists-write/danmuxiangjisanweizhongjian.html> written by inksci
+
 - <http://blog.csdn.net/qq_26499769/article/details/51817254> for further work (SFM)
 - <http://download.csdn.net/download/aichipmunk/9073499> OpenCV Code for Structure from Motion (SFM)
 - <http://blog.163.com/wang_ly2442/blog/static/9494340720136142454041/> camera internal parameters
